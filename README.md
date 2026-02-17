@@ -18,7 +18,7 @@ Para correr este proyecto localmente, sigue estos pasos:
 2. Instalar dependencias:
    `npm install`
 3. Correr en modo desarrollo:
-   `quasar dev
+   `quasar dev`
 
 ### Customize the configuration
 
